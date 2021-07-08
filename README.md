@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viswanathan
+- 👋 Hi, I’m Viswa
 - 👀 I’m interested in Music, Movies, Sports and Entertainment
 - 🌱 I’m currently learning GitHub :-)
 - 💞️ I’m looking to collaborate on technology
